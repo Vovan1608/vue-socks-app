@@ -1,0 +1,118 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  id="app"
+>
+  <div
+    class="nav-bar"
+  />
+   
+  <div
+    class="product"
+  >
+    <div
+      class="product-image"
+    >
+      <img
+        alt="A pair of socks"
+        src=""
+      />
+    </div>
+     
+    <div
+      class="product-info"
+    >
+      <h1>
+        Vue Mastery Socks
+      </h1>
+       
+      <p>
+        Almost sold out!
+      </p>
+       
+      <p>
+        Vue Mastery Socks are on sale!
+      </p>
+       
+      <p>
+        Shipping: Free
+      </p>
+       
+      <ul>
+        <li>
+          80% cotton
+        </li>
+        <li>
+          20% polyester
+        </li>
+        <li>
+          Gender-neutral
+        </li>
+      </ul>
+       
+      <div
+        class="color-box"
+        style="background-color: green;"
+      />
+      <div
+        class="color-box"
+        style="background-color: blue;"
+      />
+       
+      <div>
+        <span>
+          S, 
+        </span>
+        <span>
+          M, 
+        </span>
+        <span>
+          L, 
+        </span>
+        <span>
+          XL, 
+        </span>
+        <span>
+          XXL, 
+        </span>
+        <span>
+          XXXL, 
+        </span>
+      </div>
+       
+      <span>
+        On sale!
+      </span>
+       
+      <div
+        class="cart"
+      >
+        <p>
+          Cart(0)
+        </p>
+      </div>
+       
+      <div>
+        <button
+          class=""
+        >
+          
+        Add to cart
+      
+        </button>
+         
+        <button>
+          Fire from cart
+        </button>
+      </div>
+    </div>
+     
+    <a
+      href="https://www.amazon.com/s/ref=nb_sb_noss?url=search-alias%3Daps&field-keywords=socks"
+    >
+      More products like this
+    </a>
+  </div>
+</div>
+`;
